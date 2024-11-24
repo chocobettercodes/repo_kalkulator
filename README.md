@@ -2,6 +2,9 @@
 
 Repo Kalkulator adalah kumpulan kalkulator sederhana untuk mempermudah dalam menghitung kebutuhan seperti waktu, umur bahkan berat badan.
 
+Kumpulan kalkulator ini merupakan project sederhana dari proses belajar saya selama 181 hari untuk menjadi seorang Backend Developer.
+Bahasa yang saya gunakan adalah PHP Native.
+
 ## Jenis-jenis Kalkulator
 
 ### Kalkulator Time & Date
